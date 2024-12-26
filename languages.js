@@ -149,6 +149,7 @@ function applyLanguage(lang) {
         'rangColor',
         'bookmarksText',
         'bookmarksInfo',
+        'bookmarksHover',
         'bookmarksHeading',
         'bookmarkViewAs',
         'bookmarkViewGrid',
